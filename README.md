@@ -3,7 +3,8 @@ Cheat Sheet for PHP, WP, JS, Python
 
 ## PHP
 
-1) [PHP Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/php/)
+1) [PHP Cheat Sheet by Dave Child](https://cheatography.com/davechild/cheat-sheets/php/)
+2) [PHP Cheat Sheet by Website Setup](https://websitesetup.org/php-cheat-sheet/?unapproved=191820&moderation-hash=a01378041817ff6301ff6ab0eb626914#comment-191820)
 
 
 ## WordPress
