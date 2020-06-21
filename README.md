@@ -1,6 +1,10 @@
 # Cheat-Sheets
 Cheat Sheet for PHP, WP, JS, Python
 
+## PHP
+
+1) [PHP Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/php/)
+
 
 ## WordPress
 
